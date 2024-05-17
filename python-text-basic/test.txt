@@ -1,0 +1,4 @@
+this is a new first line
+This line is being appended to test.txt\And another line here.
+This line is being appended to test.txt
+And another line here.
